@@ -3,7 +3,7 @@ public class human {
     String name;
 
     public human(int age, String name) {
-        this.age = age;
+        this.age = 19;
         this.name = name;
     }
 }
