@@ -4,6 +4,6 @@ public class human {
 
     public human(int age, String name) {
         this.age = 1000;
-        this.name = name;
+        this.name = "default";
     }
 }
